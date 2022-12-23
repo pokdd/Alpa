@@ -12,6 +12,6 @@ local NotificationHolder = loadstring(game:HttpGet("https://raw.githubuserconten
 	local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/pokdd/lib/main/Client.Lua"))()
 
 	Notification:Notify(
-		{Title = "ERROR | ALPA", Description = "script is down for Thies game",
-		{OutlineColor = Color3.fromRGB(0, 255, 0),Time = 15, Type = "default"}
+		{Title = "ERROR | ALPA", Description = "script is down for Thies game"},
+		{OutlineColor = Color3.fromRGB(0, 0, 0),Time = 15, Type = "default"}
 	)
