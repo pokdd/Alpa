@@ -3,6 +3,7 @@ local games = {
     ["7952502098"] = "https://raw.githubusercontent.com/pokdd/Alpa/main/Games/Impossible%20Glass%20Bridge%20Obby%20Squid%20Game/script.lua",
     ["2788229376"] = "https://raw.githubusercontent.com/pokdd/Alpa/main/Games/Da%20Hood/script",
     ["11479042514"] = "https://raw.githubusercontent.com/pokdd/Alpa/main/Games/Gergo's%20Lifting%20Simulator/script.lua",
+    ["7239319209"] = "https://raw.githubusercontent.com/pokdd/Alpa/main/Games/ohio./script.lua",
 }
 
 for id, url in next, games do
